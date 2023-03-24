@@ -1,0 +1,47 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+PlatPoram ass esmembly:  :D:\MS2C\2d jpro jourcct sd uGca\2dme NaoNise Collilins_s_Da\ta\Mgea\nnitaEngiee.dd\UnitisyEnsgine.dll (rtlehi) 
+essoadingge:\M i\s hprojectasoulrce\2
+d Gamead Naois\MSC\ed Collins_Data\e\2d GMme Naoise Collngineins_Danta\Unityg Child Domgain
+dll into Unity Child Domain
+Pllatform assembl:yD:\M:SMSC\2d proect source\2d Gamme  Naoise Collins_Data\Managed\Assembly--CSharp.dll (tthis messag e is harmless
+)
+LLoading ::\MSSC\2d project source\2d Game Noise Collins_Data\Managged\Asseemblly--CSharp.dll iinto Unnity Child Domaain
+
+Platform asssembly: D:\MSC\2d project ssource\2d GameeNaoisese ClollinData\Ma\Mnanaged\UnityEngine.UI.dll (this message is harmless
+)
+LLoading D:\MSC\2d proeject source\2d meGame Naoise Collins_Data\ManageityEngid\UnityEnginto Unity Child Donmainhild Domain
+Platform latform assemMbly: D:\MSC\2d project source\2d Game Naonss_ aoll\ns_Daatd\UnityEnginniNtywEnkgine.Netwthis meslsage is hasrmless)
+harmless)
+ng Loading D:\MSC\2d pource\2d raoject source\2d Game Naoise Cd\UnnityEngine.NetdwonityEngline.Networking.dll intoi 
+Unity Child Domain
+- Comple-e Complete id r0.369 seconds393 seconds
+PPlatform aseembly: D:\MSC\2d proojeect sorce\2d Gaame Naoise Collins__Data\Manage\d\System.Core.d (l (ish m meagsaise harmless)s)
+Platform aPsembflrm assembly: D:\MSC\2d project source\2d Game Naonsse Collins_Data\yManaged\ System.dll (this message is
+ harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.530600 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 3e70 -> priority: 1 
+  Thread -> id: 4cf8 -> priority: 1 
+  Thread -> id: 2138 -> priority: 1 
